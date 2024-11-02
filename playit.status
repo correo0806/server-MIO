@@ -1,21 +1,11 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730581921554 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1730582864195 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730581924763 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730581927830 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582867309 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -25,35 +15,21 @@ special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730581942939 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582882405 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730581946020 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582885464 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730581949087 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730581952224 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730581955309 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582888624 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -63,28 +39,14 @@ special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730581970411 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582903724 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730581973528 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730581976608 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730581979698 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582906801 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -94,59 +56,21 @@ special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730581994811 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582921922 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730581997878 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582924988 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582001024 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730582016138 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582019211 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582022286 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582025348 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582028408 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582928049 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -156,59 +80,35 @@ special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730582043526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582943136 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582046593 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582946195 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582049805 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582949253 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582052871 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582952313 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730582067972 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582071029 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582074089 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582077144 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582955371 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -218,66 +118,21 @@ special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730582092234 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582970461 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582095296 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582973522 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582098369 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730582113449 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582116508 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582119563 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582122630 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582125688 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582128744 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582976585 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -287,52 +142,21 @@ special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730582143834 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582991676 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582146892 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582994732 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582149981 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730582165077 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582168136 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582171200 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582174414 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730582997794 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -342,728 +166,729 @@ special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730582189589 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583012885 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582192647 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583015946 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582195708 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583019008 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582198773 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583022068 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582201837 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583025130 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582204900 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583028201 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582207968 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583031259 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582211027 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583034317 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582214094 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583037373 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582217151 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583040438 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582220215 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583043548 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582223271 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583046615 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582226331 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583049687 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582229396 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583052753 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582232457 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583055814 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582235530 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583058874 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582238590 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583061932 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582241653 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583064992 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582244732 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583068053 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582247790 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583071116 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582250878 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583074172 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582253936 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583077274 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582256997 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583080331 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582260099 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583083389 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582263172 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583086453 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582266236 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583089512 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582269693 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583092575 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582272763 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583095633 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582275828 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583098695 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582278920 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583101750 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582281994 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583104811 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582285061 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583107876 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582288235 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583110939 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582291294 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583114012 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582294353 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583117074 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582297419 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583120202 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582300590 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583123263 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582303650 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583126322 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582306718 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583129392 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582309778 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583132477 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582312849 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583135536 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582315915 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583138595 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582318985 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583141653 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582322057 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583144724 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582325153 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583147825 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582328222 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583150891 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582331285 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583153949 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582334348 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583157010 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582337408 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583160077 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582340460 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583163297 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582343517 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583166460 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582346577 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583169520 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582349634 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583172587 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582352710 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583175654 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582355775 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583178727 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582358893 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583181867 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582362053 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583184932 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582365115 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583188001 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582368175 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583191070 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582371236 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583194180 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582374292 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583197239 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582377365 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583200307 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582380425 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583203370 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582383499 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583206434 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582386560 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583209495 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582389619 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730583224601 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582392677 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583227665 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582395738 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730583242794 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582398812 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583245882 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582401875 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583248944 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582405018 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730583264034 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582408075 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583267097 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582411134 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730583282199 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582414205 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583285259 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582417267 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583288320 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582420334 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583291377 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582423390 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730583306468 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582426452 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583309532 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582429642 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583312606 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582432704 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730583327698 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582435767 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583330771 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582438824 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583333831 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582441891 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583336966 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582444954 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730583352070 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582448013 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583355127 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582451090 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583358182 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582454160 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730583373274 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582457243 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583376336 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582460312 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583379407 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582463373 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730583394538 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582466442 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583397597 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582469505 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730583412695 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582472562 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583415761 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582475628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583418822 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582478690 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730583433926 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582481783 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583436991 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582484846 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730583452088 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582487909 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583455153 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582490967 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582494076 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582497140 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582500398 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582503457 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-classic-champion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-special-decent.gl.at.ply.gg:40216 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.26): 1730582506526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730583458213 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
