@@ -1,4 +1,16 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731367535454 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731368360068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368363133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368366202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -7,37 +19,199 @@ good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1731367550544 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368381309 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367553595 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368384370 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367556657 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368387427 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367559723 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368390498 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367562976 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368393588 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367566083 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368396724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368399841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368402910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368405987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368409054 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368412121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368415179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368418246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368421307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368424387 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368427454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368430527 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368433595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368436661 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368439728 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368442782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368445849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368448906 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368451966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368455030 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368458090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368461149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368464209 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368467268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368470334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368473402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368476468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368479571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -46,76 +220,37 @@ good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1731367581178 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368494670 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367584251 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368497757 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367587325 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368500835 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367590379 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368503903 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367593475 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368506966 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1731367608578 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367611657 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367614740 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367617805 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367620860 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367623921 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367626994 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368510018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -124,175 +259,91 @@ good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1731367642091 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368525119 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367645152 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368528181 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367648314 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368531244 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367651383 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368534323 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367654441 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368537379 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367657510 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368540449 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367660570 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368543504 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367663625 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368546578 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367666703 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368549630 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367669777 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368552686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367672848 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368555751 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367675912 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368558902 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367678971 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368561968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367682042 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368565027 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367685103 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367688172 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367691226 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367694294 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367697348 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367700418 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367703485 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367706543 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367709598 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367712660 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367715727 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367718790 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367721853 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367724910 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367728037 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368568086 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -301,133 +352,115 @@ good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1731367743134 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368583178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367746201 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368586239 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367749264 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368589332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367752331 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368592408 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367755948 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368595475 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367759010 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368598535 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367762065 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368601593 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1731367777390 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368604663 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367780465 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368607735 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367783523 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368610800 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367786587 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368613863 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1731367801684 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368616919 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367804749 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368619982 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367807805 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368623066 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367810873 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368626140 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367813932 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368629215 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367816992 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368632302 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367820049 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368635380 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367823139 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367826197 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367829306 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368638453 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -436,187 +469,25 @@ good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1731367844406 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368653544 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367847465 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368656604 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367850526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368659700 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367853803 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367856878 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367859955 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367863079 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367866159 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367869231 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367872295 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367875374 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367878444 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367881540 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367884608 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367887678 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367890739 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367893806 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367896866 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367899928 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367902987 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367906091 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367909151 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367912228 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367915301 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367918363 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367921438 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367924509 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367927565 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367930643 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367933705 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367936764 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368662779 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -625,43 +496,25 @@ good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1731367951865 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368677875 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367954928 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368680940 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367957981 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368684040 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367961125 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367964184 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367967367 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367970422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368687108 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -670,49 +523,19 @@ good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1731367985534 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368702226 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367988596 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368705293 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367991682 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367995012 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731367998094 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368001175 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368004267 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368007335 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368708354 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -721,97 +544,13 @@ good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1731368022423 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368723445 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368025490 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368028564 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368031638 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368034696 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368037767 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368040832 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368043897 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368046957 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368050035 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368053104 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368056162 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368059279 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368062348 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368065409 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368068479 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368726532 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -820,31 +559,19 @@ good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1731368083581 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368741632 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368086648 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368744692 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368089717 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368092793 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368095856 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368747762 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -853,43 +580,19 @@ good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1731368110972 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368762929 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368114047 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368765986 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
 good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368117106 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368120168 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368123278 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368126356 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
-good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731368129422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731368769123 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -898,3 +601,183 @@ good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731368784214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368787278 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368790342 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368793397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368796458 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731368811554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368814624 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368817698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731368832781 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368835847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731368850936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368854000 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368857055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731368872164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368875225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368878287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731368893381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368896446 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368899517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731368914615 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368917676 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731368932767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368935825 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731368950911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368953975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731368957032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kitchen-quiet.gl.at.ply.gg:3421 => 127.0.0.1:3421 (proto: Udp, port count: 1)
+good-sacramento.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
